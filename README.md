@@ -102,7 +102,7 @@ A qualidade do software será garantida através das seguintes camadas de teste:
 ---
 
 ## 📂 Documentação Técnica
-Para detalhes sobre o funcionamento do sistema e regras de negócio, acesse:
+Clique nos links abaixo para explorar os detalhes técnicos e a organização do projeto:
 
 * [ Casos de Uso e Fluxos do MVP](docs/mvp.md)
 * [ Organograma do Projeto](docs/organograma.md)
